@@ -3,7 +3,7 @@
 > 给笔记本电池做长期体检：健康度、充电趋势、谁在耗电、低电量提醒，全在一个几 MB 的小窗口里。
 > 无需注册、无需登录、不额外装任何运行时，下载安装即用。
 
-面向中文使用者的说明 · [English documentation](./README.md)
+面向English使用者的说明 · [English documentation](./README.md)
 
 <!--
   配图待补：截图放入 docs/assets/screenshots/ 后，把下方「界面预览」里对应的图片行去掉注释即可。
