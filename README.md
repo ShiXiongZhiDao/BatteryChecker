@@ -225,12 +225,24 @@ Small unsigned tools do get false positives occasionally.
 
 - Current version: **v1.1.16**
 
-## Support and feedback
+## ☕ Support the Author
 
-- Bugs and feature requests: Gitee issues — https://gitee.com/ShiXiongZhiDao/BatteryChecker/issues
-- WeChat official account: 师兄知道
-- In the app, Settings → Donate carries Alipay and WeChat Pay codes. If this tool saved your battery a little,
-  you can buy the author a coffee.
+If this little tool saved you some time, you can buy the author a coffee — your support keeps the project improving:
+
+<table>
+  <tr>
+    <th align="center">Alipay</th>
+    <th align="center">WeChat</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="zhifubao.jpg" width="220" alt="支付宝">
+    </td>
+    <td align="center">
+      <img src="weixin.png" width="220" alt="微信">
+    </td>
+  </tr>
+</table>
 
 ## License
 
