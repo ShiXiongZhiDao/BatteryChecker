@@ -202,10 +202,10 @@ Windows 自己只告诉你"还剩 43%"，其余一概不讲：
   </tr>
   <tr>
     <td align="center">
-      <img src="docs\assets\screenshots\qr\alipay-qr.png" width="220" alt="支付宝">
+      <img src="docs/assets/screenshots/qr/alipay-qr.png" width="220" alt="支付宝">
     </td>
     <td align="center">
-      <img src="docs\assets\screenshots\qr\wechat-qr.png" width="220" alt="微信支付">
+      <img src="docs/assets/screenshots/qr/wechat-qr.png" width="220" alt="微信支付">
     </td>
   </tr>
 </table>

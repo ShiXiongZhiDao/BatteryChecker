@@ -243,10 +243,10 @@ If this little tool saved you some time, you can buy the author a coffee — you
   </tr>
   <tr>
     <td align="center">
-      <img src="docs\assets\screenshots\qr\alipay-qr.png" width="220" alt="alipay">
+      <img src="docs/assets/screenshots/qr/alipay-qr.png" width="220" alt="alipay">
     </td>
     <td align="center">
-      <img src="docs\assets\screenshots\qr\wechat-qr.png" width="220" alt="wechat">
+      <img src="docs/assets/screenshots/qr/wechat-qr.png" width="220" alt="wechat">
     </td>
   </tr>
 </table>
