@@ -16,7 +16,11 @@
 -->
 
 ## 界面预览
-
+| | |
+|---|---|
+| ![首页：电量球与电池健康](docs\assets\screenshots\views\01.jpg) | ![电量和功率趋势](docs\assets\screenshots\views\02.jpg) |
+| ![高耗电进程与按应用的电量使用情况](docs\assets\screenshots\views\03.jpg) | ![健康度统计与历史曲线](docs\assets\screenshots\views\04.jpg) |
+| ![智能提醒阈值设置](docs\assets\screenshots\views\05.jpg) | ![设置页](docs\assets\screenshots\views\06.jpg) |
 <!-- ![首页：电量球与电池健康](assets/screenshots/dashboard.png) -->
 <!-- ![电量和功率趋势](assets/screenshots/trend.png) -->
 <!-- ![高耗电进程与按应用的电量使用情况](assets/screenshots/processes.png) -->
@@ -24,7 +28,7 @@
 <!-- ![智能提醒阈值设置](assets/screenshots/alerts.png) -->
 <!-- ![设置页](assets/screenshots/settings.png) -->
 
-> 截图位先空着，界面本身长这样：左侧一列纯图标导航，共 6 页 —— 电池 / 趋势 / 进程 / 告警 / 健康 / 设置，深浅色两套主题自适应。
+> 界面本身长这样：左侧一列纯图标导航，共 6 页 —— 电池 / 趋势 / 进程 / 告警 / 健康 / 设置，深浅色两套主题自适应。
 
 ---
 
@@ -198,10 +202,10 @@ Windows 自己只告诉你"还剩 43%"，其余一概不讲：
   </tr>
   <tr>
     <td align="center">
-      <img src="alipay-qr.png" width="220" alt="支付宝">
+      <img src="docs\assets\screenshots\qr\alipay-qr.png" width="220" alt="支付宝">
     </td>
     <td align="center">
-      <img src="wechat-qr.png" width="220" alt="微信支付">
+      <img src="docs\assets\screenshots\qr\wechat-qr.png" width="220" alt="微信支付">
     </td>
   </tr>
 </table>

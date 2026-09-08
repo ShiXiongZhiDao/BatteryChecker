@@ -26,7 +26,7 @@
 <!-- ![Smart alert thresholds](assets/screenshots/alerts.png) -->
 <!-- ![Settings](assets/screenshots/settings.png) -->
 
-> The screenshots are not in yet. The layout itself: a narrow icon-only sidebar on the left with six
+> The layout itself: a narrow icon-only sidebar on the left with six
 > pages — Battery · Trend · Processes · Alerts · Health · Settings — in a light or dark theme.
 
 ---
@@ -236,10 +236,10 @@ If this little tool saved you some time, you can buy the author a coffee — you
   </tr>
   <tr>
     <td align="center">
-      <img src="alipay-qr.png" width="220" alt="alipay">
+      <img src="docs/assets/screenshots/alipay-qr.png" width="220" alt="alipay">
     </td>
     <td align="center">
-      <img src="wechat-qr.png" width="220" alt="wechat">
+      <img src="docs/assets/screenshots/wechat-qr.png" width="220" alt="wechat">
     </td>
   </tr>
 </table>
