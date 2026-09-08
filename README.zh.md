@@ -191,6 +191,20 @@ Windows 自己只告诉你"还剩 43%"，其余一概不讲：
 - 提问题 / 许愿功能：Gitee 仓库 Issues —— https://gitee.com/ShiXiongZhiDao/BatteryChecker/issues
 - 公众号：师兄知道
 - 应用内「设置 → 捐赠打赏」有支付宝 / 微信收款码；如果这个小工具帮到了你，可以请作者喝杯咖啡。
+- <table>
+  <tr>
+    <th align="center">Alipay</th>
+    <th align="center">WeChat</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="src/assets/zhifubao.jpg" width="220" alt="支付宝">
+    </td>
+    <td align="center">
+      <img src="src/assets/weixin.png" width="220" alt="微信">
+    </td>
+  </tr>
+</table>
 
 ## 许可与声明
 
