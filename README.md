@@ -26,6 +26,13 @@
 <!-- ![Smart alert thresholds](assets/screenshots/alerts.png) -->
 <!-- ![Settings](assets/screenshots/settings.png) -->
 
+
+| | |
+|---|---|
+| ![首页：电量球与电池健康](docs/assets/screenshots/views/01.jpg) | ![电量和功率趋势](docs/assets/screenshots/views/02.jpg) |
+| ![高耗电进程与按应用的电量使用情况](docs/assets/screenshots/views/03.jpg) | ![健康度统计与历史曲线](docs/assets/screenshots/views/04.jpg) |
+| ![智能提醒阈值设置](docs/assets/screenshots/views/05.jpg) | ![设置页](docs/assets/screenshots/views/06.jpg) |
+
 > The layout itself: a narrow icon-only sidebar on the left with six
 > pages — Battery · Trend · Processes · Alerts · Health · Settings — in a light or dark theme.
 
@@ -236,10 +243,10 @@ If this little tool saved you some time, you can buy the author a coffee — you
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/assets/screenshots/alipay-qr.png" width="220" alt="alipay">
+      <img src="docs\assets\screenshots\qr\alipay-qr.png" width="220" alt="alipay">
     </td>
     <td align="center">
-      <img src="docs/assets/screenshots/wechat-qr.png" width="220" alt="wechat">
+      <img src="docs\assets\screenshots\qr\wechat-qr.png" width="220" alt="wechat">
     </td>
   </tr>
 </table>
