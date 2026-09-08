@@ -4,7 +4,7 @@
 > alerts — all in one tool that installs in a few megabytes.
 > No account, no sign-in, no extra runtime to install. Download, install, done.
 
-[简体中文版](./gitee_readme.md)
+[简体中文版](./README.zh.md)
 
 <!--
   Screenshots pending: drop images into docs/assets/screenshots/, then uncomment the matching
